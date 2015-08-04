@@ -1,3 +1,1 @@
-Each project includes the assignment instructions.  I completed Project 1 incorrectly, but the professor still
-gave me credit because it still runs and the part I misunderstood, recursive descent, I would get a second chance
-with on the second project.
+Each project includes the assignment instructions.  I completed Project 1 incorrectly, but the professor still gave me credit because it still runs and the part I misunderstood, recursive descent, I would get a second chance with on the second project.
