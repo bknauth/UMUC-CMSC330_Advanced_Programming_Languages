@@ -1,0 +1,25 @@
+Window "Calculator" (200, 250) Layout Flow:
+  Textfield 20;
+  Panel Layout Grid(4, 3, 5, 5):
+    Button "7";
+    Button "8";
+    Button "9";
+    Button "4";
+    Button "5";
+    Button "6";
+    Button "1";
+    Button "2";
+    Button "3";
+    Label "";
+    Button "0";
+  End;
+  Panel Layout Grid(3, 1):
+    Group:
+      Radio "1";
+      Radio "2"; 
+    End;
+    Panel Layout Flow:
+      Label "Goodbye.";  
+    End;
+  End;    
+End.
